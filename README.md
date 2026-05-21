@@ -38,3 +38,4 @@ All persistence goes through `src/storage.js`. Replace the `localStorage` calls 
 ## Customising Departments
 
 Edit the `DEPARTMENTS` array in `src/App.js`.
+
